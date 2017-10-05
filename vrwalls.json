@@ -1,0 +1,445 @@
+{
+    "Collections":[
+        {
+            "name":"City",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"Material",
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_material.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_material_thumb.jpg"
+        },
+        {
+            "name":"Mountain",
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_mountain.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_mountain_thumb.jpg"
+        },
+        {
+            "name":"Satellite",
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_satellite.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_satellite_thumb.jpg"
+		},
+        {
+            "name":"Space",
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_space.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_space_thumb.jpg"
+		},
+        {
+            "name":"Water",
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_water.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_water_thumb.jpg"	
+        }
+    ],
+    "Wallpapers":[
+        {
+            "name":"Algeria",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_algeria.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"Saudi Arabia",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_arabiasaudita.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"Saudi Arabia 2",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_arabiasaudita2.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"Argel",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_argel.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"Antofagasta Argentina",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_argentina_antofagasta.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"Australia",
+            "author":"DigitalGlobe",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_australia_digitalglobe",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"Bolivia",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_bolivia.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"Bolivia 2",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_bolivia2.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"Canada",
+            "author":"DigitalGlobe",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_canada_digitalglobe.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"China",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_china.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+        },
+        {
+            "name":"Colombia",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_colombia.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Dessert",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_dessert.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Egypt",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_egypt.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Egypt 2",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_egypt2.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Egypt 3",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_egypt3.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"French Alps",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_france.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Iran",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_iran.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Kazakhstan",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_kazakhstan.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Libia",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_libia.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Madagascar",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_madagascar.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Madagascar 2",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_madagascar2.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Mauritania",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_mauritania.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Mongolia",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_mongolia.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Omango",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_omango.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Queensland Australia",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_queensland.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Sea",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_sea.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Bangkok Thailand",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_thailand_digitalglobe.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"United States",
+            "author":"DigitalGlobe",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_unitedstates.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"United States 2",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_unitedstates2.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"United States 3",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_unitedstates3.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"United States 2",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_unitedstates.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Mountain 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_1.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"	
+		},
+        {
+            "name":"Mountain 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_3.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_5.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_6.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_7.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 8",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_8.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 9",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_9.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 10",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_10.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Space 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_1.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_3.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_5.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_6.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_7.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"	
+		},
+        {
+            "name":"Water 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_1.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"
+		},
+        {
+            "name":"Water 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"	
+		},
+        {
+            "name":"Water 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_3.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"
+		},
+        {
+            "name":"Water 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"
+		},
+        {
+            "name":"Water 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_5.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"	
+		},
+        {
+            "name":"Water 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_6.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"	
+		},
+        {
+            "name":"Material 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_1.jpg",
+			"author":"VR ThemeStudio",
+            "collections":"material"
+		},
+        {
+            "name":"Material 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_2.jpg",
+			"author":"VR ThemeStudio",
+            "collections":"material"
+		},
+        {
+            "name":"City 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_1.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"
+		},
+        {
+            "name":"City 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"	
+		},
+        {
+            "name":"City 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_3.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"	
+		},
+        {
+            "name":"City 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"	
+		},
+        {
+            "name":"City 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_5.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"	
+		},
+        {
+            "name":"City 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_6.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"
+		},
+        {
+            "name":"City 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_7.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"		
+        }
+    ]
+}
