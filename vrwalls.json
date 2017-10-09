@@ -1,9 +1,14 @@
 {
     "Collections":[
         {
+            "name":"Canvas",
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_canvas.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_canvas_thumb.jpg"
+		},
+        {
             "name":"City",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_city.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_city_thumb.jpg"	
         },
         {
             "name":"Material",
@@ -385,6 +390,24 @@
             "name":"Water 6",
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_6.jpg",
 			"copyright":"Papers.co CC BY",
+            "collections":"water"
+		},
+        {
+            "name":"Water 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_7.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"
+		},
+        {
+            "name":"Water 8",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_8.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"	
+		},
+        {
+            "name":"Water 9",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_9.jpg",
+			"copyright":"Papers.co CC BY",
             "collections":"water"	
 		},
         {
@@ -439,7 +462,67 @@
             "name":"City 7",
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_7.jpg",
 			"copyright":"Papers.co CC BY",
-            "collections":"city"		
+            "collections":"city"
+		},
+        {
+            "name":"Canvas 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_1.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"	
+		},
+        {
+            "name":"Canvas 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"	
+		},
+        {
+            "name":"Canvas 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_3.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"
+		},
+        {
+            "name":"Canvas 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"
+		},
+        {
+            "name":"Canvas 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_5.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"
+		},
+        {
+            "name":"Canvas 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_6.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"
+		},
+        {
+            "name":"Canvas 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_7.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"
+		},
+        {
+            "name":"Canvas 8",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_8.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"
+		},
+        {
+            "name":"Canvas 9",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_9.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"
+		},
+        {
+            "name":"Canvas 10",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_10.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"canvas"	
         }
     ]
 }
