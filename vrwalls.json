@@ -31,6 +31,11 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_space_thumb.jpg"
 		},
         {
+            "name":"Texture",
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_testures.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_textures_thumb.jpg"	
+		},
+        {
             "name":"Water",
             "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_water.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_water_thumb.jpg"	
@@ -523,6 +528,54 @@
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_10.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"canvas"	
+		},
+        {
+            "name":"Textures 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/texture/textures_1.jpg",
+			"copyright":"KaboomPics",
+            "collections":"textures"
+		},
+        {
+            "name":"Textures 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/texture/textures_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"textures"
+		},
+        {
+            "name":"Textures 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/texture/textures_3.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"textures"
+		},
+        {
+            "name":"Textures 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/texture/textures_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"textures"
+		},
+        {
+            "name":"Textures 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/texture/textures_5.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"textures"
+		},
+        {
+            "name":"Textures 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/texture/textures_6.jpg",
+			"copyright":"KaboomPics",
+            "collections":"textures"
+		},
+        {
+            "name":"Textures 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/texture/textures_7.jpg",
+			"copyright":"KaboomPics",
+            "collections":"textures"
+		},
+        {
+            "name":"Textures 8",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/texture/textures_8.jpg",
+			"copyright":"KaboomPics",
+            "collections":"textures"	
         }
     ]
 }
