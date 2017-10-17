@@ -76,6 +76,13 @@
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_argentina_antofagasta.jpg",
 			"copyright":"DigitalGlobe",
             "collections":"satellite"
+		},
+        {
+            "name":"Argentina 2",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_argentina2.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"	
         },
         {
             "name":"Australia",
@@ -197,6 +204,13 @@
             "collections":"satellite"
 		},
         {
+            "name":"Mauritania",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_mauritania2.jpg",
+			"copyright":"CNES,DigitalGlobe",
+            "collections":"satellite"	
+		},
+        {
             "name":"Mongolia",
             "author":"Google Earth",
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_mongolia.jpg",
@@ -232,6 +246,27 @@
             "collections":"satellite"
 		},
         {
+            "name":"Namibia",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_namibia.jpg",
+			"copyright":"CNES,DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"United Kingdom",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_unitedkingdom.jpg",
+			"copyright":"DigitalGlobe",
+            "collections":"satellite"
+		},
+        {
+            "name":"Turkey",
+            "author":"Google Earth",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_turkey.jpg",
+			"copyright":"CNES,DigitalGlobe",
+            "collections":"satellite"		
+		},
+        {
             "name":"United States",
             "author":"DigitalGlobe",
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_unitedstates.jpg",
@@ -253,9 +288,9 @@
             "collections":"satellite"
 		},
         {
-            "name":"United States 2",
+            "name":"United States 4",
             "author":"Google Earth",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_unitedstates.jpg",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_unitedstates4.jpg",
 			"copyright":"DigitalGlobe",
             "collections":"satellite"
 		},
