@@ -355,32 +355,8 @@
             "collections":"mountain"
 		},
         {
-            "name":"Space 1",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_1.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"space"
-		},
-        {
-            "name":"Space 2",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_2.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"space"
-		},
-        {
-            "name":"Space 3",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_3.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"space"
-		},
-        {
-            "name":"Space 4",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_4.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"space"
-		},
-        {
-            "name":"Space 5",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_5.jpg",
+            "name":"Space 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_7.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"space"
 		},
@@ -391,50 +367,38 @@
             "collections":"space"
 		},
         {
-            "name":"Space 7",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_7.jpg",
+            "name":"Space 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_5.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_3.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"space"
+		},
+        {
+            "name":"Space 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/space/space_1.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"space"	
 		},
         {
-            "name":"Water 1",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_1.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"water"
-		},
-        {
-            "name":"Water 2",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_2.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"water"	
-		},
-        {
-            "name":"Water 3",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_3.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"water"
-		},
-        {
-            "name":"Water 4",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_4.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"water"
-		},
-        {
-            "name":"Water 5",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_5.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"water"	
-		},
-        {
-            "name":"Water 6",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_6.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"water"
-		},
-        {
-            "name":"Water 7",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_7.jpg",
+            "name":"Water 9",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_9.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"water"
 		},
@@ -445,62 +409,56 @@
             "collections":"water"	
 		},
         {
-            "name":"Water 9",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_9.jpg",
+            "name":"Water 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_7.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"
+		},
+        {
+            "name":"Water 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_6.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"
+		},
+        {
+            "name":"Water 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_5.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"water"	
 		},
         {
-            "name":"Material 1",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_1.jpg",
+            "name":"Water 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"
+		},
+        {
+            "name":"Water 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_3.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"
+		},
+        {
+            "name":"Water 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"	
+		},
+        {
+            "name":"Water 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/water/water_1.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"water"	
+		},
+        {
+            "name":"Material 12",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_12.jpg",
 			"author":"VR ThemeStudio",
             "collections":"material"
 		},
         {
-            "name":"Material 2",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_2.jpg",
-			"author":"VR ThemeStudio",
-            "collections":"material"
-		},
-        {
-            "name":"Material 3",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_3.png",
-			"author":"VR ThemeStudio",
-            "collections":"material"
-		},
-        {
-            "name":"Material 4",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_4.png",
-			"author":"VR ThemeStudio",
-            "collections":"material"
-		},
-        {
-            "name":"Material 5",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_5.png",
-			"author":"VR ThemeStudio",
-            "collections":"material"
-		},
-        {
-            "name":"Material 6",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_6.png",
-			"author":"VR ThemeStudio",
-            "collections":"material"
-		},
-        {
-            "name":"Material 7",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_7.png",
-			"author":"VR ThemeStudio",
-            "collections":"material"
-		},
-        {
-            "name":"Material 8",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_8.png",
-			"author":"VR ThemeStudio",
-            "collections":"material"
-		},
-        {
-            "name":"Material 9",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_9.png",
+            "name":"Material 11",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_11.jpg",
 			"author":"VR ThemeStudio",
             "collections":"material"
 		},
@@ -511,14 +469,56 @@
             "collections":"material"
 		},
         {
-            "name":"Material 11",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_11.png",
+            "name":"Material 9",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_9.png",
 			"author":"VR ThemeStudio",
             "collections":"material"
 		},
         {
-            "name":"Material 12",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_12.png",
+            "name":"Material 8",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_8.png",
+			"author":"VR ThemeStudio",
+            "collections":"material"
+		},
+        {
+            "name":"Material 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_7.png",
+			"author":"VR ThemeStudio",
+            "collections":"material"
+		},
+        {
+            "name":"Material 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_6.png",
+			"author":"VR ThemeStudio",
+            "collections":"material"
+		},
+        {
+            "name":"Material 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_5.png",
+			"author":"VR ThemeStudio",
+            "collections":"material"
+		},
+        {
+            "name":"Material 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_4.png",
+			"author":"VR ThemeStudio",
+            "collections":"material"
+		},
+        {
+            "name":"Material 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_3.png",
+			"author":"VR ThemeStudio",
+            "collections":"material"
+		},
+        {
+            "name":"Material 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_2.png",
+			"author":"VR ThemeStudio",
+            "collections":"material"
+		},
+        {
+            "name":"Material 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/material/material_1.png",
 			"author":"VR ThemeStudio",
             "collections":"material"	
 		},
