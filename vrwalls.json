@@ -127,7 +127,7 @@
             "collections":"satellite"
 		},
         {
-            "name":"Dessert",
+            "name":"Desert",
             "author":"Google Earth",
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_dessert.jpg",
 			"copyright":"DigitalGlobe",
@@ -204,7 +204,7 @@
             "collections":"satellite"
 		},
         {
-            "name":"Mauritania",
+            "name":"Mauritania 2",
             "author":"Google Earth",
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/satellite/satellite_mauritania2.jpg",
 			"copyright":"CNES,DigitalGlobe",
@@ -295,44 +295,14 @@
             "collections":"satellite"
 		},
         {
-            "name":"Mountain 1",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_1.jpg",
+            "name":"Mountain 10",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_10.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"mountain"	
 		},
         {
-            "name":"Mountain 2",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_2.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"mountain"
-		},
-        {
-            "name":"Mountain 3",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_3.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"mountain"
-		},
-        {
-            "name":"Mountain 4",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_4.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"mountain"
-		},
-        {
-            "name":"Mountain 5",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_5.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"mountain"
-		},
-        {
-            "name":"Mountain 6",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_6.jpg",
-			"copyright":"Papers.co CC BY",
-            "collections":"mountain"
-		},
-        {
-            "name":"Mountain 7",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_7.jpg",
+            "name":"Mountain 9",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_9.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"mountain"
 		},
@@ -343,14 +313,44 @@
             "collections":"mountain"
 		},
         {
-            "name":"Mountain 9",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_9.jpg",
+            "name":"Mountain 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_7.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"mountain"
 		},
         {
-            "name":"Mountain 10",
-            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_10.jpg",
+            "name":"Mountain 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_6.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_5.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_3.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"mountain"
+		},
+        {
+            "name":"Mountain 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/mountain/mountain_1.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"mountain"
 		},
@@ -555,7 +555,7 @@
         {
             "name":"City 6",
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_6.jpg",
-			"copyright":"Papers.co CC BY",
+			"copyright":"CC BY",
             "collections":"city"
 		},
         {
@@ -563,6 +563,24 @@
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_7.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"city"
+		},
+        {
+            "name":"City 8",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_8.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"	
+		},
+        {
+            "name":"City 9",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_9.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"
+		},
+        {
+            "name":"City 10",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/city/city_10.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"city"	
 		},
         {
             "name":"Canvas 1",
