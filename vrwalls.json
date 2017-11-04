@@ -1,6 +1,11 @@
 {
     "Collections":[
         {
+		    "name":"Abstract",
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_abstract.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_abstract_thumb.jpg"	
+        },
+        {
             "name":"Canvas",
             "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_canvas.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_canvas_thumb.jpg"
@@ -8,7 +13,12 @@
         {
             "name":"City",
             "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_city.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_city_thumb.jpg"	
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_city_thumb.jpg"
+		},
+        {
+            "name":"Gradient",
+            "preview_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_gradient.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/header_gradient_thumb.jpg"		
         },
         {
             "name":"Material",
@@ -583,6 +593,30 @@
             "collections":"city"	
 		},
         {
+            "name":"Abstract 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/abstract/abstract_4.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"abstract"	
+		},
+        {
+            "name":"Abstract 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/abstract/abstract_3.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"abstract"
+		},
+        {
+            "name":"Abstract 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/abstract/abstract_2.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"abstract"
+		},
+        {
+            "name":"Abstract 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/abstract/abstract_1.jpg",
+			"copyright":"Papers.co CC BY",
+            "collections":"abstract"	
+		},
+        {
             "name":"Canvas 10",
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_10.jpg",
 			"copyright":"Papers.co CC BY",
@@ -641,6 +675,60 @@
             "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/canvas/canvas_1.jpg",
 			"copyright":"Papers.co CC BY",
             "collections":"canvas"	
+		},
+        {
+            "name":"Gradient 9",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/gradient/gradient_9.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"gradient"
+		},
+        {
+            "name":"Gradient 8",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/gradient/gradient_8.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"gradient"
+		},
+        {
+            "name":"Gradient 7",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/gradient/gradient_7.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"gradient"
+		},
+        {
+            "name":"Gradient 6",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/gradient/gradient_6.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"gradient"
+		},
+        {
+            "name":"Gradient 5",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/gradient/gradient_5.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"gradient"
+		},
+        {
+            "name":"Gradient 4",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/gradient/gradient_4.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"gradient"
+		},
+        {
+            "name":"Gradient 3",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/gradient/gradient_3.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"gradient"	
+		},
+        {
+            "name":"Gradient 2",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/gradient/gradient_2.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"gradient"
+		},
+        {
+            "name":"Gradient 1",
+            "url":"https://raw.githubusercontent.com/VictorRodriguezVR/vrwalls/master/gradient/gradient_1.jpg",
+			"copyright":"VR ThemeStudio",
+            "collections":"gradient"	
 		},
         {
             "name":"Textures 8",
